@@ -1,0 +1,44 @@
+[
+  {
+    "symbol": "AAPL",
+    "quantity": 30,
+    "price": 378.94,
+    "side": "B",
+    "group": "Tech"
+  },
+  {
+    "symbol": "TSLA",
+    "quantity": 5,
+    "price": 1442.97,
+    "side": "S",
+    "group": "Tech"
+  },
+  {
+    "symbol": "F",
+    "quantity": 10,
+    "price": 6.84,
+    "side": "B",
+    "group": "Auto"
+  },
+  {
+    "symbol": "AAL",
+    "quantity": 25,
+    "price": 378.67,
+    "side": "B",
+    "group": "Airlines"
+  },
+  {
+    "symbol": "BAC",
+    "quantity": 15,
+    "price": 24.0,
+    "side": "B",
+    "group": "Financial"
+  },
+  {
+    "symbol": "DIS",
+    "quantity": 25,
+    "price": 116.62,
+    "side": "S",
+    "group": "Entertainment"
+  }
+]

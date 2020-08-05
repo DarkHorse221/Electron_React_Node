@@ -1,0 +1,44 @@
+[
+  {
+    "symbol": "AAPL",
+    "open": 374.84,
+    "high": 379.5,
+    "ratio": 29.65,
+    "dividend": 0.87
+  },
+  {
+    "symbol": "TSLA",
+    "open": 174.84,
+    "high": 179.5,
+    "ratio": 19.65,
+    "dividend": 1.87
+  },
+  {
+    "symbol": "F",
+    "open": 274.84,
+    "high": 279.5,
+    "ratio": 229.65,
+    "dividend": 20.87
+  },
+  {
+    "symbol": "AAL",
+    "open": 474.84,
+    "high": 479.5,
+    "ratio": 429.65,
+    "dividend": 4.87
+  },
+  {
+    "symbol": "BAC",
+    "open": 574.84,
+    "high": 579.5,
+    "ratio": 59.65,
+    "dividend": 5.87
+  },
+  {
+    "symbol": "DIS",
+    "open": 674.84,
+    "high": 679.5,
+    "ratio": 69.65,
+    "dividend": 6.87
+  }
+]
